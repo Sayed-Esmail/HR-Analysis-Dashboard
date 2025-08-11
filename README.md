@@ -9,7 +9,7 @@ This dashboard provides insights into employee attrition, demographics, and job 
 - Excel (Data Cleaning)
 
 ## 📷 Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Hr Analysis.png)
 
 ## 📂 Files in this Repository
 - `HR_Analysis_Dashboard.pbix` → Power BI project file
