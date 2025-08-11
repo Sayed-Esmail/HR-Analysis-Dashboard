@@ -1,30 +1,30 @@
 # HR Analysis Dashboard (Power BI)
 
 ## 📊 Overview
-This dashboard provides insights into employee attrition, demographics, and job satisfaction, enabling HR teams to make data-driven retention strategies.
+This interactive Power BI dashboard analyzes employee attrition, demographics, and job satisfaction, helping HR teams make data-driven retention strategies.
 
 ## 🛠 Tools Used
-- Power BI
-- DAX
-- Excel (Data Cleaning)
+- **Power BI** – Dashboard creation & data visualization
+- **DAX** – Measures & calculated columns
+- **Excel** – Data cleaning & preprocessing
 
 ## 📷 Preview
-![Dashboard Preview](Hr Analysis.png)
+![Dashboard Preview](Hr%20Analysis.png)
 
-## 📂 Files in this Repository
+## 📂 Repository Contents
 - `HR_Analysis_Dashboard.pbix` → Power BI project file
-- `dashboard_preview.png` → Dashboard screenshot
+- `Hr Analysis.png` → Dashboard screenshot
 - `data_sample.xlsx` → Sample anonymized dataset
 
 ## 📥 How to Use
 1. Download the `.pbix` file.
-2. Open in Power BI Desktop.
-3. Interact with visuals and filters.
+2. Open it in **Power BI Desktop**.
+3. Explore the interactive visuals and filters.
 
 ## 🧾 Key Insights
-- Highest attrition rate in Sales department.
-- Job satisfaction strongly correlates with retention.
-- Most employees are between 30–40 years old.
+- Sales department shows the **highest attrition rate**.
+- Job satisfaction has a **strong correlation** with retention.
+- Majority of employees are aged **30–40 years**.
 
 ---
-Created by **[Sayed](https://github.com/Sayed-Esmail)**
+Created by **[Sayed Esmail](https://github.com/Sayed-Esmail)**
